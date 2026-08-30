@@ -367,3 +367,35 @@ Python and Jupyter Notebook were used during the initial data exploration and an
 Notebook files are available in:
 
 `4-Notebook/`
+
+
+---
+
+# 📁 Project Structure
+
+```text
+logistics-delivery-performance-analytics/
+│
+├── 1-Raw Data/
+│
+├── 2-PowerBI/
+│   ├── Power BI Dashboard
+│   └── README.md
+│
+├── 3-SQL/
+│   ├── SQL Analysis
+│   └── README.md
+│
+├── 4-Notebook/
+│   ├── Jupyter Notebook
+│   └── README.md
+│
+├── 5-Dashboard_Screenshots/
+│   ├── Executive Overview.png
+│   ├── Delivery Performance.png
+│   ├── Root Cause Analysis.png
+│   └── README.md
+│
+├── .gitignore
+├── LICENSE
+└── README.md
