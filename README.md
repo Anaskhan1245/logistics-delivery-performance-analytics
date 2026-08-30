@@ -61,7 +61,6 @@ The main objective is to answer key business questions:
 
 ## 🔄 Project Workflow
 
-```text
 Raw Logistics Data
         ↓
 Data Understanding
@@ -81,8 +80,6 @@ Power BI Dashboard
 Root Cause Analysis
         ↓
 Business Recommendations
-
-
 
 
 ## 📊 Key KPIs
